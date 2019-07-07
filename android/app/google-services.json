@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "5770878097",
+    "firebase_url": "https://workshop-fluttter.firebaseio.com",
+    "project_id": "workshop-fluttter",
+    "storage_bucket": "workshop-fluttter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5770878097:android:2ad6f60d3a615f2e",
+        "android_client_info": {
+          "package_name": "com.example.workshop_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5770878097-jf9fp5u2a3gmg38fqna6k98qcf45tfo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workshop_flutter",
+            "certificate_hash": "ef4c98f9cfda258a7edfa39cb1ba3084f464cebb"
+          }
+        },
+        {
+          "client_id": "5770878097-ojq95njuljo6prtogios3td276jh2uki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhlyfkDxa-UvhoHq_4Y6mw13oVI93v1nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5770878097-ojq95njuljo6prtogios3td276jh2uki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
